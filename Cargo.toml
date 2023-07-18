@@ -1,0 +1,10 @@
+[package]
+name = "rust-webserver"
+version = "0.1.0"
+edition = "2021"
+authors = ["Jacobbrewer1 <Jacob.brewer@bthree.uk"]
+description = "A simple webserver written in rust"
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
